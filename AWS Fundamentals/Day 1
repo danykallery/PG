@@ -1,0 +1,88 @@
+What is Cloud computin?
+    Without any Capital Expenses, Using resources like computing power, Storage, databases as per need in pay as you go from service provider like AWS, Azure, Goodle.
+
+
+    Benefits:
+        * Data Loss Prevention
+        * Disaster Recovery
+        * Data Security
+        * Mobility
+        * Sustainability
+        * Collaboration features
+
+
+
+Topics.
+    EC2
+    EC2 Load Balancer
+    Auto Scaling
+    Placement Group
+    S3
+    EFS
+    EBS
+    SQS
+    SNS 
+    Cloudformation
+    Terraform
+
+    VPC
+    Cloudfront
+    EBS
+    CloudWatch
+    Cloud Trail
+    SystemManager
+    Parameter Store 
+    Lambda
+    API Gateway
+    RDS
+    Dynamo databases
+    Containers
+
+
+
+
+    What is AWS Region, Availability Zones, and Data Centers
+
+        Search current AWS global insfrastructures - Search for AWS GLOBAL INFRASTRUCTURES 
+
+        Region - AZs - DCs 
+
+
+EC2 (Compute) Elastic Compute Cloud
+
+    Catagory of Compute Powers
+        General Purpose
+        Computer Optimized - High intencive Works, 
+        Storage Optimized - High number of Low Latency, and Random I/O operations
+        Memory Optimized - 
+        Accelerated Computing - 
+        HPC Optimized 
+
+
+        Reference URL: https://aws.amazon.com/ec2/instance-types/
+
+
+AMI - Amazon Machine Image 
+    Virtual Appliances for Creating VM within AWS EC2
+
+    3 Types
+        Public
+        Explicit
+        Implicit 
+
+
+
+Status Check 2/2
+    1 - Status of Physical Machine
+    2 - Status of VM 
+
+    
+
+
+
+
+
+
+
+
+
