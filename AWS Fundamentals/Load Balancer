@@ -1,0 +1,23 @@
+What is Load Balancer 
+    It allows the application traffic or requests distributes across multuple targets from a single point of contacts for the clients.
+
+
+    
+Types of LOAD BALANCERS
+
+    Classic Load Balancer - 2025
+    Application Load Balancer
+    Network Load Balancer
+    Gateway Load Balancer 
+
+
+
+
+    Q&A 
+
+    What is Auto Scaling Group
+Use cases of Auto Scaling Group 
+Is Auto Scaling Group Chargeable ? It's free.....
+Can I edit Auto Scaling Group ?
+Can same instance can be part of 2 Auto Scaling Group ?
+CAn I add running instances to Auto Scaling Group ?

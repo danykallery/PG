@@ -1,0 +1,46 @@
+Auto Scaling
+    What is Autoscaling
+    * If demand is high compare to the allocation, resources will be upgraded based on the scaling method 
+
+2 types of Scaling (Auto)
+
+* Horizontal Scaling
+    Resources (servers) are added with the same capacity
+
+    Scale Out - Adding more same capacity servers 
+    Scale In - Removing/destroying machines from Auto scaling
+
+    
+* Vertical Scaling
+    Capacity of existing servers (Hardware) will be upgraded 
+
+    Scale UP - Increase the capacity of the Server
+    Scale Down - Decreasing the capacity of the Server
+
+    Requirement for Auto Scaling
+        Templetes - AMI Images of the instances
+        Metrics - Measurement of Scaling inputs
+                * Avg CPU Utilization
+                * Avg Network In (Measured in Bytes)
+                * Avg Network Out(Measured in Bytes) 
+                * Active Number of requests on Load Balancer per Target
+
+
+        - Maximum Number of Instance - 200
+        - Minimum Number of Instnace - 100
+        - Desired Number of Instances  (Minimum Desired Capacity & Maximum Desired Capacity)
+
+
+++++ Autoscaling - First need to create a Templete ++++++++
+
+Types of Scaling
+    - Manual Scaling
+    - Dynamic Scaling 
+    - Scheduled Scaling - Schedule a Auto scaling time based on need (Weekdays)
+    - Predective Scaling - AWS is going to analyse work group, and decides its own Dynamic AutoScaling policy and applies 
+
+
+
+
+    DELETION OF AUTO SCALING GROUP RESOURCES
+        DONT DELETE INSTANCE DIRECTLY, INSTEAD DELETE PARTICULAR AUTO SCALING GROUP (It will delete all the resources that created as part of Auto Scaling)
