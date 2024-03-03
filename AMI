@@ -1,0 +1,18 @@
+Amazon Machine Image
+
+AMI = Operating System + Softwares Installed + Application Data
+
+Creation of AMI
+    Usage of Custom AMI
+
+Copy AMI across region
+
+Copy AMI Across Accounts - AMIs - Permissions - Edit AMIs 
+
+Copy AMI among multiple accounts/Organizations 
+
+* What is called a Golden Image
+    An Image that included all the required applications pre installed for the Production environment is called Golden Image
+
+
+

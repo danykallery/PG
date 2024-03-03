@@ -1,0 +1,11 @@
+EBS - Elastic Block Store
+EFS - Elastic File System
+S3 
+
+Database
+
+
+EBS
+
+    General Purpose Volume GP3/GP2 - Versions of SSD - (GP3 is latest version and provides upto 20% lower cost compare to GP2)
+    Provisioned IOPS - IOPS Based - Max IOPS will be maximized depends on the version of Disks and it is Expensive 
