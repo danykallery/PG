@@ -1,0 +1,15 @@
+AWS - Region - Availability Zone - Datacenters 
+    High Availability - Multi AZ deployment
+
+        AWS Global infrrastructure - https://aws.amazon.com/about-aws/global-infrastructure/
+
+Criteria of Region selection
+    * Data Regulation 
+            (Banks, Gov Org will always prefer or restriction on Local Region and DCs)
+    * Latency
+        AWS Latency Check (https://aws-latency-test.com/)
+                            (https://clients.amazonworkspaces.com/Health.html)
+    * Cost (Cost varies depends on Region wise)
+    * Service Availability (Some services may not be available in some region)
+            (https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+
