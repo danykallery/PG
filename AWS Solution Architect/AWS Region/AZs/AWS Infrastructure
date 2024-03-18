@@ -1,3 +1,25 @@
+
+AWS Global infrrastructure
+    DC,AZ, Region
+
+    AWS Private Network
+    Criteria for RIght Region
+    Edge Locations
+
+
+    IAM:
+    AWS Account creation
+    Root User
+    IAM User
+    Group
+    Policy
+
+
+
+
+
+
+
 AWS - Region - Availability Zone - Datacenters 
     High Availability - Multi AZ deployment
 

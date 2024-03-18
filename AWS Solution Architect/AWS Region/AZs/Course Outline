@@ -1,0 +1,22 @@
+AWS Global Infra
+IAM
+EC2
+EBS
+ELB
+ASG
+Lambda
+S3
+EFS/Fsx
+CloudWatch
+CloudTrail
+Eventbridge
+CloudFormation
+CloudFront
+VPC
+Peering
+VPN
+Direct Connect
+Route53
+Containers
+Kinesis
+Cognito

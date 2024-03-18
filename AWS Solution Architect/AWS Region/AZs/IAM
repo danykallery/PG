@@ -1,0 +1,25 @@
+IAM:
+Roles
+
+What is Roles
+    Role gives a temporary access on any resources to the user
+
+Once a permission set for a user, it lasts from 1 Hour to 12 Hours session, and the permission is upto the active session
+    
+Roles
+
+
+Role Access
+Trusted Entity
+    AWS Account - Select Account - Select policy - Role Name - Trusted Entity (Edit )
+
+    How to assume role () - Select user and - SWITCH ROLE
+
+
+
+Roles for Service
+
+Service roles helps a service to access to another service
+
+Apply role on the resources
+Actions - Security - Modify IAM
