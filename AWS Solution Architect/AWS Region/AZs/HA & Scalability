@@ -1,0 +1,23 @@
+Best Formula - HIGH AVAILABILITY - MULTI ZONE DEPLOYMENT
+
+
+
+Types of Scaling
+
+Vertical Scaling
+    Scale up - increase the capacity of Instances
+    Scale Down - decrease the capacity of Instances
+Horizontal Scaling
+    Scale Out - Increase the number of Instances
+    Scale In - Decrease the number of Instances
+
+
+
+Auto Scaling Group
+
+ + Replaces unhealthy machine to Healthy one
+ + Scale Out if More load needs
+ + Scale in if only required less load
+
+ *** RDS Supports only Vertical Scaling *****
+

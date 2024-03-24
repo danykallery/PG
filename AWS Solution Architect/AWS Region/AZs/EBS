@@ -1,0 +1,15 @@
+Elastic Block Store
+    + EC2 and EBS should be in same region
+
+    + When you terminate a EC2, only root volume is deleted, all additional volumes will not be deleted
+
+    + Delete on Termination only enabled for Root Volume
+
+    Storage Comparison
+    URL - https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html
+
+    GP3 - GP2 - iO2 - iO1 - 
+
+    What is Instance Store /(Kind of Cache/Swap storage) - once EC2 restarted, Data stored in Instance Store will be erased
+
+    
