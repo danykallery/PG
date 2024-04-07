@@ -1,0 +1,13 @@
+Resource Monitoring Tool
+Cloud watch by default collect resournce data in every 5 Minute 
+
+    Data Point - 
+
+
+    EC2 Metrics
+
+    CPU Utilization
+Disk Read/Write Operations
+Disk Read/Write Bytes
+Network In/Out
+Status Check Failures (Instance and System)
