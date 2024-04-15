@@ -1,0 +1,35 @@
+IAM:
+Roles
+
+Pricing/Cost - Free of Cost
+
+What is Roles
+    Role gives a temporary access to a user on any AWS resources and services. (Timing varys from 1 hour to 12 hours). Once a permission set for a user, it lasts from 1 Hour to 12 Hours session, and the permission is upto the active session. Once If the user logsout and needed access again within the given session duraion, the user needed to assume the role. 
+
+
+    ***Secure tocken service - (STS)***
+        Whenever a role assigned, the request goes to STS and assigns a temporary credentials for the assigned time frame/ session duration.
+   
+   
+Assigning Roles
+
+Role Access
+Trusted Entity
+    AWS Account - Select Account - Select policy - Role Name - create the role
+       *** Assign Trust policy / user assignment - Select the created Role, Edit - Trust Policy Edit - Modify Trust Policy and Duration there  ****
+
+    How to assume/USE the assigned role () - Select user and - ****SWITCH ROLE****
+
+
+Revert Back to DEFAULT USER PERMISSION
+
+    Select USER account - SwitchBack
+
+    
+
+Roles for Service
+
+Service roles helps a service to access to another service
+
+Apply role on the resources
+Actions - Security - Modify IAM
